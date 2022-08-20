@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "918337887945",
+    "firebase_url": "https://examenfinal-d503f-default-rtdb.firebaseio.com",
+    "project_id": "examenfinal-d503f",
+    "storage_bucket": "examenfinal-d503f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918337887945:android:a502be800d2e1f5e73b718",
+        "android_client_info": {
+          "package_name": "com.example.examenfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918337887945-jsaucuqu2tukfo0agll19k1hdfagbp5q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.examenfinal",
+            "certificate_hash": "f26aa5184fc309ea2824bc847d5ee3c96296ca76"
+          }
+        },
+        {
+          "client_id": "918337887945-549e1891evbdi1vs53h592ejts900ip4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdNDP0oRvc1Ck7PvbtrPth9XOuRyfswGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918337887945-549e1891evbdi1vs53h592ejts900ip4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918337887945:android:3daddeedaff0b23273b718",
+        "android_client_info": {
+          "package_name": "com.proyecto.pm01exameniiiparcial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918337887945-5k895f666avter6118bip4gc1cau5tfm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proyecto.pm01exameniiiparcial",
+            "certificate_hash": "f26aa5184fc309ea2824bc847d5ee3c96296ca76"
+          }
+        },
+        {
+          "client_id": "918337887945-549e1891evbdi1vs53h592ejts900ip4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdNDP0oRvc1Ck7PvbtrPth9XOuRyfswGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918337887945-549e1891evbdi1vs53h592ejts900ip4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
